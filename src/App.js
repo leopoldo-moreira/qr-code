@@ -8,7 +8,7 @@ function App() {
       <div className="qrContainer">
         <img src={qrCodeImage}></img>
       </div>
-      <h1>5Improve your front-end skills by building projects</h1>
+      <h1>Improve your front-end skills by building projects</h1>
       <p>Scan the QR code to visit Frontend Mentor and take
          your coding skills to the next level</p>
     </div>

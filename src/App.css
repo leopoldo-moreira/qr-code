@@ -34,7 +34,7 @@ p{
   border-radius: 2em;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 500px) {
   .App {
     min-width: 335px;
     padding: .8em;
