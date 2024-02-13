@@ -36,6 +36,15 @@ p{
 
 @media screen and (max-width: 375px) {
   .App {
-    margin: 5em 5em;
+    min-width: 335px;
+    padding: .8em;
+  }  
+
+  h1{
+    font-size: 26px;
   }
+
+  p{
+    font-size: 18px;
+  }  
 }
