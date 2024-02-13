@@ -32,3 +32,9 @@ p{
   width: 100%;
   border-radius: 2em;
 }
+
+@media screen and (max-width: 375px) {
+  .App {
+    width: 90%;
+  }
+}
